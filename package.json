@@ -1,0 +1,11 @@
+{
+  "name": "mhar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exam.js",
+  "scripts": {
+    "start": "node exam"
+  },
+  "author": "Mhar Navarro",
+  "license": "ISC"
+}
